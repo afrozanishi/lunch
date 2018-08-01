@@ -1,0 +1,50 @@
+#mondayImage {
+    width: 200px
+    height: 200px
+}
+
+#tuesdayImage {
+    width: 200px
+    height: 200px
+}
+
+#wednesdayImage {
+    width: 200px
+    height: 200px
+}
+
+#thursdayImage {
+    width: 200px
+    height: 200px
+}
+
+#fridayImage {
+    width: 200px
+    height: 200px
+}
+
+div {
+    border: solid 2px green;
+    margin: 8px;
+    text-align: center;
+    width: 25%
+}
+
+body {
+    display: flex:
+    align-content: space-around;
+    text-align: center;
+}
+
+#title {
+    position: fixed;
+}
+
+body {
+    align-content: center
+}
+
+div {
+    background-color: antiquewhite
+
+}
