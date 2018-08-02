@@ -1,50 +1,59 @@
 #mondayImage {
     width: 200px
-    height: 200px
-}
-
+    height: 200px}
 #tuesdayImage {
     width: 200px
-    height: 200px
-}
-
+    height: 200px}
 #wednesdayImage {
     width: 200px
-    height: 200px
-}
-
+    height: 200px}
 #thursdayImage {
     width: 200px
-    height: 200px
-}
-
+    height: 200px}
 #fridayImage {
     width: 200px
-    height: 200px
-}
+    height: 200px}
 
-div {
-    border: solid 2px green;
+    div {
+    border: solid 2px orange;
     margin: 8px;
     text-align: center;
-    width: 25%
-}
+    width: 25%}
 
 body {
     display: flex:
     align-content: space-around;
-    text-align: center;
-}
+    text-align: center;}
 
 #title {
-    position: fixed;
-}
+    position: fixed;}
 
 body {
-    align-content: center
-}
+    align-content: center}
 
 div {
-    background-color: antiquewhite
+    background-color: antiquewhite}
 
+#monday {
+    background-color:orange }
+#tuesday {
+    background-color:orange}
+#wednesday {
+    background-color:orange }
+#thursday {
+    background-color:orange }
+#friday {
+    background-color: orange} 
+
+ body {
+        background: linear-gradient(to bottom right, purple, orange );
+        background-repeat: no-repeat;
+        height: 100%
+        background-color: 100%
+    }
+
+body {
+    display: flex;
+    align-content: space-around;
 }
+
